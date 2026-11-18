@@ -1,0 +1,8 @@
+{
+  "slug": "cipherloom",
+  "name": "CipherLoom",
+  "tagline": "Ask your secrets. Never expose them.",
+  "category": "productivity",
+  "description": "Privacy-first encrypted knowledge vault inside Anna. Encrypt sensitive docs client-side (AES-256-GCM), content-address them on IPFS, and get cited answers from Anna without exposing plaintext by default. Optional on-chain anchoring for tamper-evident provenance.",
+  "homepage": "https://github.com/aymmj/cipherloom"
+}

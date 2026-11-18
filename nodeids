@@ -1,0 +1,11 @@
+[
+  "tests/test_plugin.py::test_anchor_commitment",
+  "tests/test_plugin.py::test_ask_envelope",
+  "tests/test_plugin.py::test_ask_ranks_relevant_chunks",
+  "tests/test_plugin.py::test_encrypt_decrypt_roundtrip",
+  "tests/test_plugin.py::test_protocol_describe_and_invoke",
+  "tests/test_plugin.py::test_search_hits",
+  "tests/test_plugin.py::test_tamper_detection",
+  "tests/test_plugin.py::test_unknown_action_is_clean_error",
+  "tests/test_plugin.py::test_wrong_passphrase_fails"
+]
